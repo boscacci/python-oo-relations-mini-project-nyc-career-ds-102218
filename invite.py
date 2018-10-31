@@ -34,4 +34,4 @@ class Invite:
 
     @classmethod
     def all(cls):
-        returns cls._all
+        return cls._all
